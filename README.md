@@ -1,4 +1,4 @@
-# Calculadora IMC
+# App Alcool ou Gasolina
 Esse projeto é um aplicativo desenvolvido em kotlin e tem como sua funcionalidade o usuário inserir o valor do combustivel e descobrir qual vale mais a pena.
 
 ## Screenshots
